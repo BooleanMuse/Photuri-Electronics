@@ -6,7 +6,7 @@ Photuri Electronics is a mixed-media webcomic about Rebeck and Amper, two electr
 ![logo](https://user-images.githubusercontent.com/98064124/223210220-0025026c-c05b-406b-8250-57b3198a051c.png)
 
 You can check the webcomic here
-[Photuri Electronics](https://photuricomix.com/)
+[Photuri Electronics](https://photurielectronics.neocities.org/)
 
 This is a series of plugins for [VCV Rack](https://vcvrack.com/).
 
